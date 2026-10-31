@@ -1,5 +1,5 @@
 {
-  "name": "Alex-theme-siyuan",
+  "name": "Asri",
   "author": "mustakshif",
   "url": "https://github.com/mustakshif/Asri",
   "version": "3.7.16",
@@ -10,9 +10,9 @@
   "icon": "icon.webp",
   "preview": "preview.webp",
   "displayName": {
-    "default": "Alex-theme-siyuan",
-    "zh_CN": "Alex-theme-siyuan",
-    "en_US": "Alex-theme-siyuan"
+    "default": "Asri",
+    "zh_CN": "Asri",
+    "en_US": "Asri"
   },
   "description": {
     "default": "Crafting a space where visual distractions disappear and your thinking takes center stage - immersive, focused, and intuitively guided.",
@@ -35,6 +35,6 @@
     "dark"
   ],
   "keywords": [
-    "Alex-theme-siyuan"
+    "Asri"
   ]
 }

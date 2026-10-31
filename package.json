@@ -1,5 +1,5 @@
 {
-  "name": "alex-theme-siyuan",
+  "name": "asri",
   "version": "3.7.16",
   "private": true,
   "repository": {
@@ -8,7 +8,7 @@
   },
   "homepage": "https://github.com/mustakshif/Asri",
   "keywords": [
-    "Alex-theme-siyuan"
+    "Asri"
   ],
   "description": "An ultra-modern theme that delivers an elegant, efficient, and personalized note-taking experience through its clean, intuitive design.",
   "scripts": {
